@@ -135,7 +135,7 @@ p {
     }
 
     h4 {
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
 
     body {
@@ -239,8 +239,8 @@ main {
 
 .img-container {
     position: relative;
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     margin: 0 auto;
     margin-bottom: 1.5rem;
@@ -289,7 +289,7 @@ main {
     margin-bottom: 0.5rem;
     text-transform: uppercase;
     color: var(--clr-primary-5);
-    font-size: 0.85rem;
+    font-size: 1rem;
 }
 
 #info {
@@ -299,7 +299,7 @@ main {
 .prev-btn,
 .next-btn {
     color: var(--clr-primary-7);
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     background: transparent;
     border-color: transparent;
     margin: 0 0.5rem;
