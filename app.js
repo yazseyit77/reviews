@@ -7,15 +7,15 @@ const reviews = [
     img:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQheYxxJpqVqhusqgHjhdEo1wdfmzGzO-Dk2liJOIOVmfZVHeHe&usqp=CAU",
     text:
-      "I'm baby meggings twee health goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
   {
     id: 2,
     name: "Hannah Mckay",
-    job: "florist/gardener",
+    job: "florist / gardener",
     img: "https://www.myfconline.com/character_avatars/265300_185308.jpg",
     text:
-      "Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal.",
+      "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
   },
   {
     id: 3,
@@ -23,7 +23,7 @@ const reviews = [
     job: "industrial engineer",
     img: "https://i3.sndcdn.com/avatars-000018739285-nza09i-t500x500.jpg",
     text:
-      "Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag.",
+      "Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. ",
   },
   {
     id: 4,
@@ -31,7 +31,24 @@ const reviews = [
     job: "infrimary doctor",
     img: "https://i4.lisimg.com/6466884/411full.jpg",
     text:
-      "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ",
+      "ESed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.",
+  },
+  {
+    id: 5,
+    name: "Jesse Pinkman",
+    job: "meth cook / distributor",
+    img: "https://i1.sndcdn.com/avatars-000145941081-3ui4rr-t500x500.jpg",
+    text:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  },
+  {
+    id: 5,
+    name: "Heisenberg",
+    job: "meth cook / chemist",
+    img:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVfwXqU551XGaDhE6aoHPCIhOMLXyzv_KPWHLqokrO4Eyb7HxG&s",
+    text:
+      "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
   },
 ];
 // select items
